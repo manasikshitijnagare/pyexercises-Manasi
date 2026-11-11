@@ -26,8 +26,8 @@ DELIVERABLE
 
 # 1. In: arithmetic equations of integers
 # 2. Process: addition, subtraction, multiplication and division if two numbers
-# 3. Out: 
-# 4. What happens when the second number is zero, and why:
+# 3. Out: got the results for addition, subtraction, multiplication and division. even for if else.
+# 4. What happens when the second number is zero, and why: if the second number is zero, it gives the anser using if, else code.
 
 
 # Your code below
